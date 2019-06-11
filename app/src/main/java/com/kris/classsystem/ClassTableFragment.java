@@ -26,5 +26,5 @@ public class ClassTableFragment extends Fragment {
         return inflater.inflate(R.layout.fragment_class_table, container, false);
     }
 
-
+    
 }
